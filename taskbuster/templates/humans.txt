@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Serge Ridge -- Developer -- @serge_ridge
 
 # THANKS
 
-    <name>
+    Thanks to Marina Mele
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Django
+    HTML5 Boilerplate
+    Twitter Bootstrap

@@ -1,0 +1,1482 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-11 12:01+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\taskbuster\settings\base.py:17
+msgid "English"
+msgstr ""
+
+#: .\taskbuster\settings\base.py:18
+msgid "Catalan"
+msgstr ""
+
+#: .\taskbuster\settings\base.py:19
+msgid "Russian"
+msgstr ""
+
+#: .\taskbuster\templates\taskbuster\index.html:10
+msgid "Welcome to TaskBuster!"
+msgstr "Добро пожаловать в TaskBuster!"
+
+#: .\taskbuster\templates\taskbuster\index.html:11
+msgid ""
+"TaskBuster is a simple Task manager that helps you organize your daylife. </"
+"br>\n"
+"                You can create todo lists, periodic tasks and more! </br></"
+"br>\n"
+"                If you want to learn how it was created, or create it "
+"yourself!, check www.django-tutorial.com\n"
+"                "
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\contrib\messages\apps.py:7
+#: .\tb_test\Lib\site-packages\django\contrib\messages\apps.py:7
+msgid "Messages"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\contrib\sitemaps\apps.py:7
+#: .\tb_test\Lib\site-packages\django\contrib\sitemaps\apps.py:7
+msgid "Site Maps"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+#: .\tb_test\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\contrib\syndication\apps.py:7
+#: .\tb_test\Lib\site-packages\django\contrib\syndication\apps.py:7
+msgid "Syndication"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\paginator.py:42
+#: .\tb_test\Lib\site-packages\django\core\paginator.py:42
+msgid "That page number is not an integer"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\paginator.py:44
+#: .\tb_test\Lib\site-packages\django\core\paginator.py:44
+msgid "That page number is less than 1"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\paginator.py:49
+#: .\tb_test\Lib\site-packages\django\core\paginator.py:49
+msgid "That page contains no results"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:31
+#: .\tb_test\Lib\site-packages\django\core\validators.py:31
+msgid "Enter a valid value."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:102
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:657
+#: .\tb_test\Lib\site-packages\django\core\validators.py:102
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:657
+msgid "Enter a valid URL."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:154
+#: .\tb_test\Lib\site-packages\django\core\validators.py:154
+msgid "Enter a valid integer."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:165
+#: .\tb_test\Lib\site-packages\django\core\validators.py:165
+msgid "Enter a valid email address."
+msgstr ""
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:239
+#: .\tb_test\Lib\site-packages\django\core\validators.py:239
+msgid ""
+"Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:246
+#: .\tb_test\Lib\site-packages\django\core\validators.py:246
+msgid ""
+"Enter a valid 'slug' consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:255
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:275
+#: .\tb_test\Lib\site-packages\django\core\validators.py:255
+#: .\tb_test\Lib\site-packages\django\core\validators.py:275
+msgid "Enter a valid IPv4 address."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:260
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:276
+#: .\tb_test\Lib\site-packages\django\core\validators.py:260
+#: .\tb_test\Lib\site-packages\django\core\validators.py:276
+msgid "Enter a valid IPv6 address."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:270
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:274
+#: .\tb_test\Lib\site-packages\django\core\validators.py:270
+#: .\tb_test\Lib\site-packages\django\core\validators.py:274
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:304
+#: .\tb_test\Lib\site-packages\django\core\validators.py:304
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:310
+#: .\tb_test\Lib\site-packages\django\core\validators.py:310
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:341
+#: .\tb_test\Lib\site-packages\django\core\validators.py:341
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:350
+#: .\tb_test\Lib\site-packages\django\core\validators.py:350
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:360
+#: .\tb_test\Lib\site-packages\django\core\validators.py:360
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:375
+#: .\tb_test\Lib\site-packages\django\core\validators.py:375
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:394
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:289
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:324
+#: .\tb_test\Lib\site-packages\django\core\validators.py:394
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:289
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:324
+msgid "Enter a number."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:396
+#: .\tb_test\Lib\site-packages\django\core\validators.py:396
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:401
+#: .\tb_test\Lib\site-packages\django\core\validators.py:401
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:406
+#: .\tb_test\Lib\site-packages\django\core\validators.py:406
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:468
+#: .\tb_test\Lib\site-packages\django\core\validators.py:468
+#, python-format
+msgid ""
+"File extension '%(extension)s' is not allowed. Allowed extensions are: "
+"'%(allowed_extensions)s'."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\core\validators.py:520
+#: .\tb_test\Lib\site-packages\django\core\validators.py:520
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\base.py:1111
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:752
+#: .\tb_test\Lib\site-packages\django\db\models\base.py:1111
+#: .\tb_test\Lib\site-packages\django\forms\models.py:752
+msgid "and"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\base.py:1113
+#: .\tb_test\Lib\site-packages\django\db\models\base.py:1113
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:105
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:105
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:106
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:106
+msgid "This field cannot be null."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:107
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:107
+msgid "This field cannot be blank."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:108
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:108
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:112
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:112
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:129
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:129
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:898
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1766
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:898
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1766
+msgid "Integer"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:902
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1764
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:902
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1764
+#, python-format
+msgid "'%(value)s' value must be an integer."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:977
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1833
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:977
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1833
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:989
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:989
+#, python-format
+msgid "'%(value)s' value must be either True or False."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:990
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:990
+#, python-format
+msgid "'%(value)s' value must be either True, False, or None."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:992
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:992
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1034
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1034
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1098
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1098
+msgid "Comma-separated integers"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1147
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1147
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1149
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1292
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1149
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1292
+#, python-format
+msgid ""
+"'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1152
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1152
+msgid "Date (without time)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1290
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1290
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
+"uuuuuu]][TZ] format."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1294
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1294
+#, python-format
+msgid ""
+"'%(value)s' value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1298
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1298
+msgid "Date (with time)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1446
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1446
+#, python-format
+msgid "'%(value)s' value must be a decimal number."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1448
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1448
+msgid "Decimal number"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1587
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1587
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid format. It must be in [DD] [HH:[MM:]]ss[."
+"uuuuuu] format."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1590
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1590
+msgid "Duration"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1640
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1640
+msgid "Email address"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1663
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1663
+msgid "File path"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1729
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1729
+#, python-format
+msgid "'%(value)s' value must be a float."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1731
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1731
+msgid "Floating point number"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1849
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1849
+msgid "IPv4 address"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1880
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1880
+msgid "IP address"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1960
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1961
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1960
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1961
+#, python-format
+msgid "'%(value)s' value must be either None, True or False."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1963
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1963
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:1998
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:1998
+msgid "Positive integer"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2011
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2011
+msgid "Positive small integer"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2025
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2025
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2057
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2057
+msgid "Small integer"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2064
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2064
+msgid "Text"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2092
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2092
+#, python-format
+msgid ""
+"'%(value)s' value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2094
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2094
+#, python-format
+msgid ""
+"'%(value)s' value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2097
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2097
+msgid "Time"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2223
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2223
+msgid "URL"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2245
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2245
+msgid "Raw binary data"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\__init__.py:2295
+#: .\tb_test\Lib\site-packages\django\db\models\fields\__init__.py:2295
+#, python-format
+msgid "'%(value)s' is not a valid UUID."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\files.py:221
+#: .\tb_test\Lib\site-packages\django\db\models\fields\files.py:221
+msgid "File"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\files.py:360
+#: .\tb_test\Lib\site-packages\django\db\models\fields\files.py:360
+msgid "Image"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\related.py:778
+#: .\tb_test\Lib\site-packages\django\db\models\fields\related.py:778
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\related.py:780
+#: .\tb_test\Lib\site-packages\django\db\models\fields\related.py:780
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\related.py:1001
+#: .\tb_test\Lib\site-packages\django\db\models\fields\related.py:1001
+msgid "One-to-one relationship"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\related.py:1051
+#: .\tb_test\Lib\site-packages\django\db\models\fields\related.py:1051
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\related.py:1052
+#: .\tb_test\Lib\site-packages\django\db\models\fields\related.py:1052
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\db\models\fields\related.py:1094
+#: .\tb_test\Lib\site-packages\django\db\models\fields\related.py:1094
+msgid "Many-to-many relationship"
+msgstr ""
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: .\tb_dev\Lib\site-packages\django\forms\boundfield.py:146
+#: .\tb_test\Lib\site-packages\django\forms\boundfield.py:146
+msgid ":?.!"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:52
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:52
+msgid "This field is required."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:244
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:244
+msgid "Enter a whole number."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:395
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:1126
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:395
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:1126
+msgid "Enter a valid date."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:419
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:1127
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:419
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:1127
+msgid "Enter a valid time."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:441
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:441
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:470
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:470
+msgid "Enter a valid duration."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:471
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:471
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:531
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:531
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:532
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:532
+msgid "No file was submitted."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:533
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:533
+msgid "The submitted file is empty."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:535
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:535
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:538
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:538
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:599
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:599
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:761
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:851
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:1272
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:761
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:851
+#: .\tb_test\Lib\site-packages\django\forms\models.py:1272
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:852
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:967
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:1271
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:852
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:967
+#: .\tb_test\Lib\site-packages\django\forms\models.py:1271
+msgid "Enter a list of values."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:968
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:968
+msgid "Enter a complete value."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\fields.py:1185
+#: .\tb_test\Lib\site-packages\django\forms\fields.py:1185
+msgid "Enter a valid UUID."
+msgstr ""
+
+#. Translators: This is the default suffix added to form field labels
+#: .\tb_dev\Lib\site-packages\django\forms\forms.py:86
+#: .\tb_test\Lib\site-packages\django\forms\forms.py:86
+msgid ":"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\forms.py:212
+#: .\tb_test\Lib\site-packages\django\forms\forms.py:212
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\formsets.py:91
+#: .\tb_test\Lib\site-packages\django\forms\formsets.py:91
+msgid "ManagementForm data is missing or has been tampered with"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\formsets.py:338
+#: .\tb_test\Lib\site-packages\django\forms\formsets.py:338
+#, python-format
+msgid "Please submit %d or fewer forms."
+msgid_plural "Please submit %d or fewer forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\formsets.py:345
+#: .\tb_test\Lib\site-packages\django\forms\formsets.py:345
+#, python-format
+msgid "Please submit %d or more forms."
+msgid_plural "Please submit %d or more forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\formsets.py:371
+#: .\tb_dev\Lib\site-packages\django\forms\formsets.py:373
+#: .\tb_test\Lib\site-packages\django\forms\formsets.py:371
+#: .\tb_test\Lib\site-packages\django\forms\formsets.py:373
+msgid "Order"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\formsets.py:375
+#: .\tb_test\Lib\site-packages\django\forms\formsets.py:375
+msgid "Delete"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:747
+#: .\tb_test\Lib\site-packages\django\forms\models.py:747
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:751
+#: .\tb_test\Lib\site-packages\django\forms\models.py:751
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:757
+#: .\tb_test\Lib\site-packages\django\forms\models.py:757
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:766
+#: .\tb_test\Lib\site-packages\django\forms\models.py:766
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:1093
+#: .\tb_test\Lib\site-packages\django\forms\models.py:1093
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:1160
+#: .\tb_test\Lib\site-packages\django\forms\models.py:1160
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\models.py:1274
+#: .\tb_test\Lib\site-packages\django\forms\models.py:1274
+#, python-format
+msgid "\"%(pk)s\" is not a valid value."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\utils.py:162
+#: .\tb_test\Lib\site-packages\django\forms\utils.py:162
+#, python-format
+msgid ""
+"%(datetime)s couldn't be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\widgets.py:383
+#: .\tb_test\Lib\site-packages\django\forms\widgets.py:383
+msgid "Clear"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\widgets.py:384
+#: .\tb_test\Lib\site-packages\django\forms\widgets.py:384
+msgid "Currently"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\widgets.py:385
+#: .\tb_test\Lib\site-packages\django\forms\widgets.py:385
+msgid "Change"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\widgets.py:699
+#: .\tb_test\Lib\site-packages\django\forms\widgets.py:699
+msgid "Unknown"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\widgets.py:700
+#: .\tb_test\Lib\site-packages\django\forms\widgets.py:700
+msgid "Yes"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\forms\widgets.py:701
+#: .\tb_test\Lib\site-packages\django\forms\widgets.py:701
+msgid "No"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:788
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:788
+msgid "yes,no,maybe"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:817
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:834
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:817
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:834
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:836
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:836
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:838
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:838
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:840
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:840
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:842
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:842
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\template\defaultfilters.py:844
+#: .\tb_test\Lib\site-packages\django\template\defaultfilters.py:844
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dateformat.py:62
+#: .\tb_test\Lib\site-packages\django\utils\dateformat.py:62
+msgid "p.m."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dateformat.py:63
+#: .\tb_test\Lib\site-packages\django\utils\dateformat.py:63
+msgid "a.m."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dateformat.py:68
+#: .\tb_test\Lib\site-packages\django\utils\dateformat.py:68
+msgid "PM"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dateformat.py:69
+#: .\tb_test\Lib\site-packages\django\utils\dateformat.py:69
+msgid "AM"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dateformat.py:150
+#: .\tb_test\Lib\site-packages\django\utils\dateformat.py:150
+msgid "midnight"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dateformat.py:152
+#: .\tb_test\Lib\site-packages\django\utils\dateformat.py:152
+msgid "noon"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:6
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:6
+msgid "Monday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:6
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:6
+msgid "Tuesday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:6
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:6
+msgid "Wednesday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:6
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:6
+msgid "Thursday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:6
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:6
+msgid "Friday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:7
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:7
+msgid "Saturday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:7
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:7
+msgid "Sunday"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:10
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:10
+msgid "Mon"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:10
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:10
+msgid "Tue"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:10
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:10
+msgid "Wed"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:10
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:10
+msgid "Thu"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:10
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:10
+msgid "Fri"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:11
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:11
+msgid "Sat"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:11
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:11
+msgid "Sun"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:14
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:14
+msgid "January"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:14
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:14
+msgid "February"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:14
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:14
+msgid "March"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:14
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:14
+msgid "April"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:14
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:14
+msgid "May"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:14
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:14
+msgid "June"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:15
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:15
+msgid "July"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:15
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:15
+msgid "August"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:15
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:15
+msgid "September"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:15
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:15
+msgid "October"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:15
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:15
+msgid "November"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:16
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:16
+msgid "December"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:19
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:19
+msgid "jan"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:19
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:19
+msgid "feb"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:19
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:19
+msgid "mar"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:19
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:19
+msgid "apr"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:19
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:19
+msgid "may"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:19
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:19
+msgid "jun"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:20
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:20
+msgid "jul"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:20
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:20
+msgid "aug"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:20
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:20
+msgid "sep"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:20
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:20
+msgid "oct"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:20
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:20
+msgid "nov"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:20
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:20
+msgid "dec"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:23
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:24
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:25
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:26
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:27
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:28
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:29
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:30
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:31
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:32
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:33
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:34
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:37
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:38
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:39
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:40
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:41
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:42
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:43
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:44
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:45
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:46
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:47
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\dates.py:48
+#: .\tb_test\Lib\site-packages\django\utils\dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\ipv6.py:8
+#: .\tb_test\Lib\site-packages\django\utils\ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\text.py:70
+#: .\tb_test\Lib\site-packages\django\utils\text.py:70
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s..."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\text.py:237
+#: .\tb_test\Lib\site-packages\django\utils\text.py:237
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: .\tb_dev\Lib\site-packages\django\utils\text.py:256
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:83
+#: .\tb_test\Lib\site-packages\django\utils\text.py:256
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:83
+msgid ", "
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:9
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:10
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:11
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:12
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:13
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:14
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tb_dev\Lib\site-packages\django\utils\timesince.py:72
+#: .\tb_test\Lib\site-packages\django\utils\timesince.py:72
+msgid "0 minutes"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:110
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:110
+msgid "Forbidden"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:111
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:115
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a 'Referer "
+"header' to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:120
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:120
+msgid ""
+"If you have configured your browser to disable 'Referer' headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for 'same-"
+"origin' requests."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:124
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the 'Referrer-Policy: no-referrer' header, please remove them. The "
+"CSRF protection requires the 'Referer' header to do strict referer checking. "
+"If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
+"\" ...> for links to third-party sites."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:132
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:137
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for 'same-origin' requests."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\csrf.py:142
+#: .\tb_test\Lib\site-packages\django\views\csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:41
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:41
+msgid "No year specified"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:61
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:111
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:208
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:61
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:111
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:208
+msgid "Date out of range"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:90
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:90
+msgid "No month specified"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:142
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:142
+msgid "No day specified"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:188
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:188
+msgid "No week specified"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:338
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:367
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:338
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:585
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:585
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because %(class_name)s."
+"allow_future is False."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\dates.py:619
+#: .\tb_test\Lib\site-packages\django\views\generic\dates.py:619
+#, python-format
+msgid "Invalid date string '%(datestr)s' given format '%(format)s'"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\detail.py:54
+#: .\tb_test\Lib\site-packages\django\views\generic\detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\list.py:67
+#: .\tb_test\Lib\site-packages\django\views\generic\list.py:67
+msgid "Page is not 'last', nor can it be converted to an int."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\list.py:72
+#: .\tb_test\Lib\site-packages\django\views\generic\list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\generic\list.py:154
+#: .\tb_test\Lib\site-packages\django\views\generic\list.py:154
+#, python-format
+msgid "Empty list and '%(class_name)s.allow_empty' is False."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\static.py:40
+#: .\tb_test\Lib\site-packages\django\views\static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\static.py:42
+#: .\tb_test\Lib\site-packages\django\views\static.py:42
+#, python-format
+msgid "\"%(path)s\" does not exist"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\static.py:80
+#: .\tb_test\Lib\site-packages\django\views\static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:6
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:6
+msgid "Django: the Web framework for perfectionists with deadlines."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:345
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:345
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:367
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:367
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:368
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:368
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener"
+"\">DEBUG=True</a> is in your settings file and you have not configured any "
+"URLs."
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:383
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:383
+msgid "Django Documentation"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:384
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:384
+msgid "Topics, references, &amp; how-to's"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:395
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:395
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:396
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:396
+msgid "Get started with Django"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:407
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:407
+msgid "Django Community"
+msgstr ""
+
+#: .\tb_dev\Lib\site-packages\django\views\templates\default_urlconf.html:408
+#: .\tb_test\Lib\site-packages\django\views\templates\default_urlconf.html:408
+msgid "Connect, get help, or contribute"
+msgstr ""
