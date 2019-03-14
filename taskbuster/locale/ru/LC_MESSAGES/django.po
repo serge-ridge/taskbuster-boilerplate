@@ -46,7 +46,12 @@ msgid ""
 "yourself!, check www.django-tutorial.com\n"
 "                "
 msgstr ""
-
+"TaskBuster - это простой диспетчер задач, котрый поможем Вам организовать распорядок вашего дня. </"
+"br>\n"
+"                Вы сможете создать списки дел, периодические задачи и прочее! </br></"
+"br>\n"
+"                Если Вы хотите узнать подробнее о проекте, посетите www.django-tutorial.com.\n"
+"                "
 #: .\tb_dev\Lib\site-packages\django\contrib\messages\apps.py:7
 #: .\tb_test\Lib\site-packages\django\contrib\messages\apps.py:7
 msgid "Messages"
